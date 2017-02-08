@@ -1,6 +1,7 @@
 (module L_0201 (layer F.Cu) (tedit 589B0AAE)
   (descr http://www.mouser.com/ds/2/400/nductor_commercial_high-frequency_mlk0603_en-918297.pdf)
-  (tags "inductor, smd, 0201")
+  (tags "inductor smd 0201")
+  (attr smd)
   (fp_text reference REF** (at 0 -1.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
