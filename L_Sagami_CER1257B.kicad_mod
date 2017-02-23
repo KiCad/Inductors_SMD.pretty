@@ -1,5 +1,5 @@
 (module L_Sagami_CER1257B (layer F.Cu) (tedit 58AD60B3)
-  (descr "Inductor, Sagami, CER12XXB")
+  (descr "Inductor, Sagami, h=6.0mm, http://www.sagami-elec.co.jp/file/CER1242B-CER1257B-CER1277B.pdf")
   (tags "inductor sagami cer12xxb smd")
   (attr smd)
   (fp_text reference REF** (at 0 -8.128) (layer F.SilkS)
