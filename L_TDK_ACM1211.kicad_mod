@@ -1,4 +1,5 @@
 (module L_TDK_ACM1211 (layer F.Cu) (tedit 59B02A42)
+  (descr "TDK ACM1211 common-mode choke")
   (tags "TDK ACM1211")
   (attr smd)
   (fp_text reference REF** (at 0 -6.75) (layer F.SilkS)
